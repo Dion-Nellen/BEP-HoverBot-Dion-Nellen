@@ -38,8 +38,8 @@ P_follow = 0.15
 D_follow = 0.05
 I_follow = 0
 
-P_manual = 2
-D_manual = 0.3
+P_manual = 2.2
+D_manual = 0.08
 I_manual = 0
 
 P_self_driving = 0.007
